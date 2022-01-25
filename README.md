@@ -1,37 +1,72 @@
-# HTML Interview
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>HTML Interview</title>
+    
+        <link rel="stylesheet" href="styles.css"><!--add the hper-text reference to link to the style sheet-->
+    </head>
+    <body>
+        <h1>Interview Questions</h1>
 
-In this assignment, we'll work in groups of 2-3 students. This is a great time to meet your fellow classmates!
+        <div>
+            <h2>Anson Kong</h2>
+            <img src="https://i.ibb.co/XtsgfP0/16-F6-C153-57-FD-4-A90-9096-A19-AA56-ACE73.jpg" alt="Anson">
+        <ol>
+            <li><b>Do you have any coding experience? </b>  <br>
+            Yes</li>
+            <li><b>What is your favorite color? </b>  <br>
+            Blue</li>
+             <li><b>If you were a fish, what would you be? </b>  <br>
+            Good one</li>
+            <li><b>Where do you live? </b>  <br>
+            New york</li>
+            <li><b>What is your perfect Sunday? </b>  <br>
+             Sleep</li>
+            <li><b>Do you like carpet, tile, or hardwood floors more?</b>  <br>
+            Wood</li>
+            <li><b>What is your favorite food?</b>  <br>
+            Fish</li>
+            <li><b>What is your favorite hobby?</b>  <br>
+            Play games</li>
+            <li><b>Are you more a cat person or a dog person?</b>  <br>
+            cat</li>
+            <li><b>Do you like coffee or tea?</b>  <br>
+            Tea</li>
+        </ol>
+        </div>
 
-Although we're working in groups for this assignment, we'll still turn in separate code submissions.
+        <div>
+            <h2>Corey Steimel</h2>
+            <img src="https://avatars.githubusercontent.com/u/98352247?v=4" alt="Corey">
+        <ol>
+            <li><b>Do you have any coding experience? </b>  <br>
+                Yes, I have experience in CoffeeScript and Java.</li>
+            <li><b>What is your favorite color? </b>  <br>
+                My favorite color is green.</li>
+             <li><b>If you were a fish, what would you be? </b>  <br>
+                I would be a salmon.</li>
+            <li><b>Where do you live? </b>  <br>
+                I live in Longmont, Colorado.</li>
+            <li><b>What is your perfect Sunday? </b>  <br>
+                Attending morning Mass with my fiancé, then going for a hike and practicing archery.</li>
+            <li><b>Do you like carpet, tile, or hardwood floors more?</b>  <br>
+                I like hardwood floors with sectional rugs the best.</li>
+            <li><b>What is your favorite food?</b>  <br>
+                Pizza is by far my favorite food.</li>
+            <li><b>What is your favorite hobby?</b>  <br>
+                Right now I am really into practicing archery.</li>
+            <li><b>Are you more a cat person or a dog person?</b>  <br>
+                At the moment I have two cats, so I guess that makes me a cat person, but once I own a house and have more space I would really like a dog or two!</li>
+            <li><b>Do you like coffee or tea?</b>  <br>
+                I like both coffee and tea, but coffee is my favorite.</li>
+        </ol>
+        </div>
 
-## Instructions
 
-#### Part 0: Project set up
 
-Start off by forking this repository. Forking an existing repository is just like creating a new one except that your new repository will contain a copy of the forked code. 
 
-After forking the repository, enable GitHub Pages. To do this, go to the Settings tab of your repository, then go to Pages on the left. Change source to 'Main' or 'Master' depending on which option you have. Then click save. The page should refresh and a URL to your hosted project should be visible.
-
-Finally, copy that URL, navigate back to the home page of your repository, click the gear icon next to the 'About' section on the right, and set the 'Website' of your project to be this GitHub Pages URL.
-
-#### Part 1: Ten questions, ten answers
-
-As a group, think of ten total questions that you can ask one another and record the answers to.
-
-Have each person answer the ten questions. Write down both the questions and their answers.
-
-#### Part 2: Building an HTML page
-
-Now that you have all the questions and answers, its time to display them in HTML. 
-
-We'll create a section on the page for each student's answers.
-
-* Start out by creating an empty HTML page with the HTML starter code
-* Create 2-3 `<div>` elements in the `<body>` section of the HTML, one for each student
-* Inside each `<div>`
-  * Create a header (either `<h1>`, `<h2>`, etc) with the student's name
-  * Under the header, create an anchor tag that links to the student's GitHub page
-  * Under the link, add an image of the student, set the image's height to `250px`
-  * And finally, create an ordered list that contains a list item for each question and answer
-    * Each question and answer should be stored in a single list item element (`<li>`)
-    * The question part of the list item should be bolded
+    </body>
+</html>
