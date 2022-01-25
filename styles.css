@@ -13,6 +13,7 @@ img {
 
 body {
     background-image: url('https://img.freepik.com/free-vector/ink-splash-duotone-stripe-background_1409-1379.jpg?size=626&ext=jpg');
+    box-shadow: 1px 1px grey;
 }
 
 li {
@@ -27,7 +28,15 @@ h2 {
     text-shadow: 2px 2px royalblue;
 }
 
-div {
-    background-color: cornflowerblue;
-    background-color: transparent;
+.Anson {
+    background-color: rgba(205, 217, 255, .5); /*50% transparent */
+}
+
+.Corey {
+    background-color: rgba(119, 176, 100, 0.5); /*50% transparent */
+
+}
+
+.Samuel {
+    background-color: rgba(176, 224, 159, 0.5); /*50% transparent */
 }
