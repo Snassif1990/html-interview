@@ -13,7 +13,10 @@
 
         <div>
             <h2>Anson Kong</h2>
-            <img src="https://i.ibb.co/XtsgfP0/16-F6-C153-57-FD-4-A90-9096-A19-AA56-ACE73.jpg" alt="Anson">
+            
+                <img alt="Anson" src="https://i.ibb.co/XtsgfP0/16-F6-C153-57-FD-4-A90-9096-A19-AA56-ACE73.jpg" 
+                    width="auto" height="250" />   <br>
+                    <a href="https://github.com/Ansonkyk"> Anson's Github</a>
         <ol>
             <li><b>Do you have any coding experience? </b>  <br>
             Yes</li>
@@ -40,7 +43,10 @@
 
         <div>
             <h2>Corey Steimel</h2>
-            <img src="https://avatars.githubusercontent.com/u/98352247?v=4" alt="Corey">
+            
+            <img alt="Corey" src="https://avatars.githubusercontent.com/u/98352247?v=4" 
+                width="auto" height="250" />   <br>
+                <a href="https://github.com/coreysteimelcodeimmersives"> Corey's Github</a>
         <ol>
             <li><b>Do you have any coding experience? </b>  <br>
                 Yes, I have experience in CoffeeScript and Java.</li>
@@ -65,6 +71,35 @@
         </ol>
         </div>
 
+        <div>
+            <h2>Samuel Nassif</h2>
+            
+            <img alt="Samuel" src="https://avatars.githubusercontent.com/u/98352078?v=4" 
+                width="auto" height="250" />   <br>
+                <a href="https://github.com/Snassif1990"> Samuel's Github</a>
+        <ol>
+            <li><b>Do you have any coding experience? </b>  <br>
+                Not really, just small little things I have built on my phone on some apps.</li>
+            <li><b>What is your favorite color? </b>  <br>
+                Green. But like Irish Hills Green.</li>
+             <li><b>If you were a fish, what would you be? </b>  <br>
+                I would be a cuttlefish.</li>
+            <li><b>Where do you live? </b>  <br>
+                Kissimmee, FL</li>
+            <li><b>What is your perfect Sunday? </b>  <br>
+                Rain, movies, popcorn.</li>
+            <li><b>Do you like carpet, tile, or hardwood floors more?</b>  <br>
+                Hardwood.</li>
+            <li><b>What is your favorite food?</b>  <br>
+                Spicy pulled pork.</li>
+            <li><b>What is your favorite hobby?</b>  <br>
+                Grilling/Video Games.</li>
+            <li><b>Are you more a cat person or a dog person?</b>  <br>
+                Definitely a dog person.</li>
+            <li><b>Do you like coffee or tea?</b>  <br>
+                It depends on the time/type of day.</li>
+        </ol>
+        </div>
 
 
 
