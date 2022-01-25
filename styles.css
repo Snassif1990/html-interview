@@ -22,3 +22,12 @@ li {
 h1, h2, h6 {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans';
 }
+
+h2 {
+    text-shadow: 2px 2px royalblue;
+}
+
+div {
+    background-color: cornflowerblue;
+    background-color: transparent;
+}
