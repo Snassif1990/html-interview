@@ -1,0 +1,24 @@
+div {
+    border-color: black;
+    border-style: groove;
+    width: auto;
+    height: auto;
+    padding: 25px;
+}
+
+img {
+    border-style: solid;
+    border-radius: 50px;
+}
+
+body {
+    background-image: url('https://img.freepik.com/free-vector/ink-splash-duotone-stripe-background_1409-1379.jpg?size=626&ext=jpg');
+}
+
+li {
+    margin: 10px;
+}
+
+h1, h2, h6 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans';
+}
